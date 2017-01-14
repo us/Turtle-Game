@@ -22,6 +22,7 @@ elif select_mode.lower() == "a":
 	if which_level == 1:
 		max_enemy = 5
 		live = 20
+
 		
 	elif which_level == 2:
 		max_enemy = 7
